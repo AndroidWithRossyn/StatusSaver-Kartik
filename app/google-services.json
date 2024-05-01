@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544702927868",
+    "project_id": "status-saver-55f0a",
+    "storage_bucket": "status-saver-55f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544702927868:android:7d2e7a108d7c90c8ffd879",
+        "android_client_info": {
+          "package_name": "com.eshbcode.statussaver.photovideo.saveimages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMZRDH0p9SA94gb2H_qtzUo8XRuZePiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
